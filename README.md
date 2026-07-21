@@ -9,7 +9,7 @@ Cybersecurity enthusiast focused on vulnerability management and threat detectio
 
 ##  Threat Hunting and Security Operations
 
-Coming soon
+Expected 8/26
 
 <hr/>
 
