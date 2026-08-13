@@ -9,7 +9,7 @@ Cybersecurity enthusiast focused on vulnerability management and threat detectio
 
 ##  Threat Hunting and Security Operations
 
-Expected 8/26
+- **[Threat Hunting Scenario](https://github.com/hessey/threat-hunting-scenario-tor)**
 
 <hr/>
 
